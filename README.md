@@ -105,3 +105,9 @@ Supports prioritization of high-risk populations for immediate intervention and 
 * Significant variation exists at the county level, even within high-performing states
 * Certain demographic groups consistently experience lower literacy outcomes
 * Targeted, data-driven interventions are more effective than broad, generalized programs
+
+## Organizational Targeting Strategy
+* Prioritize high-poverty, low-literacy regions to maximize impact
+* Target high-risk demographic groups and underserved communities for focused interventions
+* Leverage proximity to staff or partners to improve efficiency and scalability
+* Use mid-risk regions for early intervention to prevent further decline
