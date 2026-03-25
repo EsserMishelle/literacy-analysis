@@ -10,7 +10,7 @@ The analysis uses data from the National Center for Education Statistics (NCES) 
 
 Organizations aiming to improve literacy outcomes often face challenges in identifying where to focus resources and which populations require the most support.
 
-Key questions addressed:
+### Key questions addressed:
 
 Which regions and counties show the lowest literacy performance?
 How does poverty correlate with literacy outcomes?
@@ -18,14 +18,16 @@ Which demographic groups are most impacted?
 Where should targeted interventions be prioritized?
 
 ## Key Objectives
-Identify geographic areas with low literacy performance
-Analyze relationships between poverty levels and literacy rates
-Segment literacy trends across age groups and demographics
-Highlight high-priority counties for targeted intervention
-Support strategic decision-making for outreach and funding allocation
+* Identify geographic areas with low literacy performance
+* Analyze relationships between poverty levels and literacy rates
+* Segment literacy trends across age groups and demographics
+* Highlight high-priority counties for targeted intervention
+* Support strategic decision-making for outreach and funding allocation
 
 ## Dataset
-The dataset is from 2024 National Center for Education Statistics literacy report.
+* Data sourced from the 2024 National Center for Education Statistics (NCES) literacy report
+* Includes literacy scores, demographic indicators, poverty levels, and geographic data across U.S. counties
+* Dataset contains ~10K+ records used for segmentation and regional analysis
 
 ## Dashboard Components
 ![dashboard1](https://github.com/user-attachments/assets/2190d3c7-105c-44af-b38e-1d76ce3a10fd)
@@ -98,8 +100,8 @@ Business Insight:
 Supports prioritization of high-risk populations for immediate intervention and funding.
 
 ## Key Insights
-Higher poverty levels strongly correlate with lower literacy performance
-Southern and certain western regions show consistently lower literacy scores
-Significant variation exists across counties within the same state
-Specific demographic groups experience lower literacy outcomes
-Targeted, data-driven intervention strategies are more effective than broad approaches
+* Higher poverty levels show a strong inverse relationship with literacy performance
+* Regional disparities highlight concentrated areas of low literacy in southern and western regions
+* Significant variation exists at the county level, even within high-performing states
+* Certain demographic groups consistently experience lower literacy outcomes
+* Targeted, data-driven interventions are more effective than broad, generalized programs
